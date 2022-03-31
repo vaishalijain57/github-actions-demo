@@ -9,3 +9,5 @@ jobs:
     steps:
       - name: Do Something
         run: echo Doing Something...
+      - name: call rest api
+        run: echo Calling rest api
